@@ -1,4 +1,4 @@
-if (window.innerWidth < 768) {
+if (window.innerWidth <= 768) {
 
     // GET GALLERY FIGURE AND IMAGE BY CLASS
     let galleryFigure = document.querySelector(".gallery__figure");
