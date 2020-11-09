@@ -38,11 +38,13 @@
         display: flex;
         overflow: visible;
         justify-content: space-between;
+        align-items: center;
     }
     .gallery__figure:nth-child(even){
         flex-direction: row-reverse;
     }
     .gallery__img{
+        object-fit: contain;
         width: 45%;
         height: auto;
     }
