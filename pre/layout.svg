@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="6400"
+   viewBox="0 0 508 1693.3334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="layout.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient989">
+      <stop
+         style="stop-color:#020219;stop-opacity:1;"
+         offset="0"
+         id="stop985" />
+      <stop
+         style="stop-color:#020219;stop-opacity:0;"
+         offset="1"
+         id="stop987" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient989"
+       id="linearGradient991"
+       x1="0"
+       y1="285.75"
+       x2="0"
+       y2="248.99498"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#020219"
+     bordercolor="#ffffff"
+     borderopacity="0.12941176"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.43543761"
+     inkscape:cx="660.3955"
+     inkscape:cy="830.29375"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g1471"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="false"
+     inkscape:snap-page="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showborder="true"
+     inkscape:showpageshadow="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     borderlayer="true"
+     inkscape:snap-global="true">
+    <sodipodi:guide
+       position="455.49828,702.11884"
+       orientation="1,0"
+       id="guide1080" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#85f4dd;stroke-width:2;stroke-linecap:round;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect871"
+       width="144.84851"
+       height="144.84851"
+       x="68.473671"
+       y="391.01511" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#85f4dd;stroke-width:2;stroke-linecap:round;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect873"
+       width="144.84851"
+       height="144.84851"
+       x="68.473671"
+       y="391.01511" />
+    <rect
+       style="fill:#020219;fill-opacity:1;stroke:none;stroke-width:2.92625;paint-order:markers fill stroke"
+       id="rect833"
+       width="508"
+       height="846.66669"
+       x="0"
+       y="0" />
+    <image
+       sodipodi:absref="/home/nottelmo/Documents/00_nottelmo/nottelmo-03112020/img/header-img.jpg"
+       xlink:href="../img/header-img.jpg"
+       y="0"
+       x="0"
+       id="image979"
+       preserveAspectRatio="none"
+       height="285.75"
+       width="508" />
+    <rect
+       style="fill:url(#linearGradient991);fill-opacity:1;stroke:none;stroke-width:1.7;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect983"
+       width="508"
+       height="36.755028"
+       x="0"
+       y="248.99498" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="layout">
+    <g
+       id="g1669" />
+    <g
+       id="g1677" />
+    <g
+       id="g1471"
+       transform="matrix(1.2060002,0,0,1.2060002,-48.443002,-356.22506)"
+       style="fill:#ffffff;fill-opacity:1">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:20.0357px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.500894"
+         x="195.75708"
+         y="594.26624"
+         id="text865"><tspan
+           sodipodi:role="line"
+           id="tspan863"
+           x="195.75708"
+           y="594.26624"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams';fill:#ffffff;fill-opacity:1;stroke-width:0.500894">PORTFOLIO</tspan></text>
+    </g>
+    <g
+       id="g1030"
+       transform="translate(0,3.9667692)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.2032px;line-height:1.25;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.955081"
+         x="308.92545"
+         y="121.256"
+         id="text995"><tspan
+           sodipodi:role="line"
+           id="tspan993"
+           x="308.92545"
+           y="121.256"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams';fill:#ffffff;fill-opacity:1;stroke-width:0.955081">nottelmo</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:17.8068px;line-height:1.25;font-family:sans-serif;fill:#12d2d2;fill-opacity:1;stroke:none;stroke-width:0.445171"
+         x="382.98798"
+         y="144.40318"
+         id="text1000"><tspan
+           sodipodi:role="line"
+           id="tspan998"
+           x="382.98798"
+           y="144.40318"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams';fill:#12d2d2;fill-opacity:1;stroke-width:0.445171">illustrator</tspan></text>
+    </g>
+    <g
+       id="g1665" />
+    <image
+       sodipodi:absref="/home/nottelmo/Documents/02_personal_Projects_and_Learning/02_doing/inktober2020/inktober2020-27.jpg"
+       xlink:href="../../../02_personal_Projects_and_Learning/02_doing/inktober2020/inktober2020-27.jpg"
+       clip-path="none"
+       y="412.89615"
+       x="148.70833"
+       id="image1386"
+       preserveAspectRatio="none"
+       height="100"
+       width="100" />
+    <image
+       sodipodi:absref="/home/nottelmo/Documents/02_personal_Projects_and_Learning/02_doing/inktober2020/inktober2020-22.jpg"
+       xlink:href="../../../02_personal_Projects_and_Learning/02_doing/inktober2020/inktober2020-22.jpg"
+       clip-path="none"
+       y="412.89615"
+       x="369.87497"
+       id="image1428"
+       preserveAspectRatio="none"
+       height="100"
+       width="100" />
+    <image
+       sodipodi:absref="/home/nottelmo/Documents/02_personal_Projects_and_Learning/02_doing/inktober2020/inktober2020-26.jpg"
+       xlink:href="../../../02_personal_Projects_and_Learning/02_doing/inktober2020/inktober2020-26.jpg"
+       clip-path="none"
+       y="412.89615"
+       x="38.125015"
+       id="image1400"
+       preserveAspectRatio="none"
+       height="100"
+       width="100" />
+    <image
+       sodipodi:absref="/home/nottelmo/Documents/02_personal_Projects_and_Learning/02_doing/inktober2020/inktober2020-25.jpg"
+       xlink:href="../../../02_personal_Projects_and_Learning/02_doing/inktober2020/inktober2020-25.jpg"
+       clip-path="none"
+       y="412.89615"
+       x="259.29166"
+       id="image1414"
+       preserveAspectRatio="none"
+       height="100"
+       width="100" />
+    <g
+       id="g2211"
+       transform="matrix(1.2060002,0,0,1.2060002,-48.443002,-67.477961)"
+       style="fill:#ffffff;fill-opacity:1">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:20.0357px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.500894"
+         x="168.93683"
+         y="594.26624"
+         id="text2209"><tspan
+           sodipodi:role="line"
+           id="tspan2207"
+           x="168.93683"
+           y="594.26624"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams';fill:#ffffff;fill-opacity:1;stroke-width:0.500894">LATEST PROJECTS</tspan></text>
+    </g>
+    <g
+       id="g2296"
+       transform="matrix(0.82739052,0,0,0.82739052,2.0407072,18.935169)">
+      <g
+         id="g2271">
+        <image
+           sodipodi:absref="/home/nottelmo/Documents/02_personal_Projects_and_Learning/02_doing/inktober2020/inktober2020-27.jpg"
+           xlink:href="../../../02_personal_Projects_and_Learning/02_doing/inktober2020/inktober2020-27.jpg"
+           clip-path="none"
+           y="834.15863"
+           x="157.38255"
+           id="image2259"
+           preserveAspectRatio="none"
+           height="54.981903"
+           width="54.981903" />
+        <image
+           sodipodi:absref="/home/nottelmo/Documents/02_personal_Projects_and_Learning/02_doing/inktober2020/inktober2020-22.jpg"
+           xlink:href="../../../02_personal_Projects_and_Learning/02_doing/inktober2020/inktober2020-22.jpg"
+           clip-path="none"
+           y="892.65277"
+           x="98.888428"
+           id="image2261"
+           preserveAspectRatio="none"
+           height="54.981895"
+           width="54.981895" />
+        <image
+           sodipodi:absref="/home/nottelmo/Documents/02_personal_Projects_and_Learning/02_doing/inktober2020/inktober2020-26.jpg"
+           xlink:href="../../../02_personal_Projects_and_Learning/02_doing/inktober2020/inktober2020-26.jpg"
+           clip-path="none"
+           y="834.15863"
+           x="98.888428"
+           id="image2263"
+           preserveAspectRatio="none"
+           height="54.981895"
+           width="54.981895" />
+        <image
+           sodipodi:absref="/home/nottelmo/Documents/02_personal_Projects_and_Learning/02_doing/inktober2020/inktober2020-25.jpg"
+           xlink:href="../../../02_personal_Projects_and_Learning/02_doing/inktober2020/inktober2020-25.jpg"
+           clip-path="none"
+           y="892.65277"
+           x="157.38255"
+           id="image2265"
+           preserveAspectRatio="none"
+           height="54.981895"
+           width="54.981895" />
+      </g>
+      <g
+         id="g2277"
+         transform="matrix(1.2060002,0,0,1.2060002,-106.65134,263.77305)"
+         style="fill:#ffffff;fill-opacity:1">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:20.0357px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.500894"
+           x="168.93683"
+           y="594.26624"
+           id="text2275"><tspan
+             sodipodi:role="line"
+             id="tspan2273"
+             x="168.93683"
+             y="594.26624"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams';fill:#ffffff;fill-opacity:1;stroke-width:0.500894">INKTOBER</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:8.12327px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.203082"
+           x="201.57172"
+           y="605.22882"
+           id="text2281"><tspan
+             sodipodi:role="line"
+             id="tspan2279"
+             x="201.57172"
+             y="605.22882"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams';fill:#ffffff;fill-opacity:1;stroke-width:0.203082">2020</tspan></text>
+      </g>
+      <rect
+         style="fill:#00d6f2;fill-opacity:0.459988;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect2283"
+         width="113.47602"
+         height="113.47604"
+         x="98.88842"
+         y="834.15863"
+         ry="0"
+         rx="0" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g2296"
+       id="use2370"
+       transform="translate(123.19544)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g2296"
+       id="use2372"
+       transform="translate(246.39087)"
+       width="100%"
+       height="100%" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams';fill:#12d2d2;fill-opacity:1;stroke:none;stroke-width:0.461765"
+       x="367.06265"
+       y="202.01389"
+       id="text995-7"><tspan
+         sodipodi:role="line"
+         id="tspan993-5"
+         x="367.06265"
+         y="202.01389"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams 24';fill:#12d2d2;fill-opacity:1;stroke-width:0.461765">available for freelance</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.77579px;line-height:1.25;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.424086"
+       x="383.60605"
+       y="215.349"
+       id="text2376"><tspan
+         sodipodi:role="line"
+         id="tspan2374"
+         x="383.60605"
+         y="215.349"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.77579px;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams 24';fill:#ffffff;fill-opacity:1;stroke-width:0.424086">not.telmo@gmail.com</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.77579px;line-height:1.25;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.424086"
+       x="387.80148"
+       y="226.60654"
+       id="text2386"><tspan
+         sodipodi:role="line"
+         id="tspan2384"
+         x="387.80148"
+         y="226.60654"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.77579px;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams 24';fill:#ffffff;fill-opacity:1;stroke-width:0.424086">+351 936 033 411</tspan></text>
+    <g
+       id="g2516">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams';fill:#12d2d2;fill-opacity:1;stroke:none;stroke-width:0.461764"
+         x="241.39369"
+         y="542.57129"
+         id="text995-7-5"><tspan
+           sodipodi:role="line"
+           id="tspan993-5-3"
+           x="241.39369"
+           y="542.57129"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams 24';fill:#12d2d2;fill-opacity:1;stroke-width:0.461764">see all</tspan></text>
+      <path
+         id="rect2491"
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         d="M 292.59953,553.19386 H 214.8644"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 467.57824,193.31531 v 38.58833"
+       id="path2399" />
+    <g
+       id="g2435"
+       transform="matrix(1.2060002,0,0,1.2060002,-48.443002,246.93124)"
+       style="fill:#ffffff;fill-opacity:1">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:20.0357px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.500894"
+         x="223.9763"
+         y="594.26624"
+         id="text2433"><tspan
+           sodipodi:role="line"
+           id="tspan2431"
+           x="223.9763"
+           y="594.26624"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams';fill:#ffffff;fill-opacity:1;stroke-width:0.500894">BLOG</tspan></text>
+    </g>
+    <g
+       id="g2459"
+       transform="matrix(0.82739052,0,0,0.82739052,2.0407072,333.34437)">
+      <g
+         id="g2445">
+        <image
+           sodipodi:absref="/home/nottelmo/Documents/02_personal_Projects_and_Learning/02_doing/inktober2020/inktober2020-27.jpg"
+           xlink:href="../../../02_personal_Projects_and_Learning/02_doing/inktober2020/inktober2020-27.jpg"
+           clip-path="none"
+           y="834.15863"
+           x="157.38255"
+           id="image2437"
+           preserveAspectRatio="none"
+           height="54.981903"
+           width="54.981903" />
+        <image
+           sodipodi:absref="/home/nottelmo/Documents/02_personal_Projects_and_Learning/02_doing/inktober2020/inktober2020-22.jpg"
+           xlink:href="../../../02_personal_Projects_and_Learning/02_doing/inktober2020/inktober2020-22.jpg"
+           clip-path="none"
+           y="892.65277"
+           x="98.888428"
+           id="image2439"
+           preserveAspectRatio="none"
+           height="54.981895"
+           width="54.981895" />
+        <image
+           sodipodi:absref="/home/nottelmo/Documents/02_personal_Projects_and_Learning/02_doing/inktober2020/inktober2020-26.jpg"
+           xlink:href="../../../02_personal_Projects_and_Learning/02_doing/inktober2020/inktober2020-26.jpg"
+           clip-path="none"
+           y="834.15863"
+           x="98.888428"
+           id="image2441"
+           preserveAspectRatio="none"
+           height="54.981895"
+           width="54.981895" />
+        <image
+           sodipodi:absref="/home/nottelmo/Documents/02_personal_Projects_and_Learning/02_doing/inktober2020/inktober2020-25.jpg"
+           xlink:href="../../../02_personal_Projects_and_Learning/02_doing/inktober2020/inktober2020-25.jpg"
+           clip-path="none"
+           y="892.65277"
+           x="157.38255"
+           id="image2443"
+           preserveAspectRatio="none"
+           height="54.981895"
+           width="54.981895" />
+      </g>
+      <g
+         id="g2455"
+         transform="matrix(1.2060002,0,0,1.2060002,-106.65134,263.77305)"
+         style="fill:#ffffff;fill-opacity:1">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:20.0357px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.500894"
+           x="168.93683"
+           y="594.26624"
+           id="text2449"><tspan
+             sodipodi:role="line"
+             id="tspan2447"
+             x="168.93683"
+             y="594.26624"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams';fill:#ffffff;fill-opacity:1;stroke-width:0.500894">INKTOBER</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:8.12327px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.203082"
+           x="201.57172"
+           y="605.22882"
+           id="text2453"><tspan
+             sodipodi:role="line"
+             id="tspan2451"
+             x="201.57172"
+             y="605.22882"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams';fill:#ffffff;fill-opacity:1;stroke-width:0.203082">2020</tspan></text>
+      </g>
+      <rect
+         style="fill:#00d6f2;fill-opacity:0.459988;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect2457"
+         width="113.47602"
+         height="113.47604"
+         x="98.88842"
+         y="834.15863"
+         ry="0"
+         rx="0" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g2296"
+       id="use2461"
+       transform="translate(123.19544,314.40918)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g2296"
+       id="use2463"
+       transform="translate(246.39087,314.40918)"
+       width="100%"
+       height="100%" />
+    <g
+       id="g2516-1"
+       transform="translate(-1.2159085,328.77198)">
+      <rect
+         style="fill:#060a53;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect2510-2"
+         width="77.73513"
+         height="25.55702"
+         x="220.15607"
+         y="532.92853"
+         rx="0"
+         ry="0" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect2491-7"
+         width="77.73513"
+         height="25.55702"
+         x="214.8644"
+         y="527.63684"
+         rx="0"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams';fill:#12d2d2;fill-opacity:1;stroke:none;stroke-width:0.461764"
+         x="241.39369"
+         y="542.57129"
+         id="text995-7-5-0"><tspan
+           sodipodi:role="line"
+           id="tspan993-5-3-9"
+           x="241.39369"
+           y="542.57129"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams 24';fill:#12d2d2;fill-opacity:1;stroke-width:0.461764">see all</tspan></text>
+    </g>
+    <g
+       id="g2516-1-3"
+       transform="translate(-0.44213443,647.38017)">
+      <rect
+         style="fill:#060a53;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect2510-2-6"
+         width="77.73513"
+         height="25.55702"
+         x="220.15607"
+         y="532.92853"
+         rx="0"
+         ry="0" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect2491-7-0"
+         width="77.73513"
+         height="25.55702"
+         x="214.8644"
+         y="527.63684"
+         rx="0"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams';fill:#12d2d2;fill-opacity:1;stroke:none;stroke-width:0.461764"
+         x="241.39369"
+         y="542.57129"
+         id="text995-7-5-0-6"><tspan
+           sodipodi:role="line"
+           id="tspan993-5-3-9-2"
+           x="241.39369"
+           y="542.57129"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams 24';fill:#12d2d2;fill-opacity:1;stroke-width:0.461764">see all</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.1255px;line-height:1.25;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.253137"
+       x="25.541174"
+       y="28.619961"
+       id="text2592"><tspan
+         sodipodi:role="line"
+         id="tspan2590"
+         x="25.541174"
+         y="28.619961"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams';fill:#ffffff;fill-opacity:1;stroke-width:0.253137">home</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.1255px;line-height:1.25;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.253137"
+       x="72.800972"
+       y="28.619961"
+       id="text2596"><tspan
+         sodipodi:role="line"
+         id="tspan2594"
+         x="72.800972"
+         y="28.619961"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams';fill:#ffffff;fill-opacity:1;stroke-width:0.253137">portfolio</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.1255px;line-height:1.25;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.253137"
+       x="134.45302"
+       y="28.619961"
+       id="text2600"><tspan
+         sodipodi:role="line"
+         id="tspan2598"
+         x="134.45302"
+         y="28.619961"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams';fill:#ffffff;fill-opacity:1;stroke-width:0.253137">projects</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.1255px;line-height:1.25;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.253137"
+       x="194.40924"
+       y="28.619961"
+       id="text2604"><tspan
+         sodipodi:role="line"
+         id="tspan2602"
+         x="194.40924"
+         y="28.619961"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams';fill:#ffffff;fill-opacity:1;stroke-width:0.253137">blog</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="layout 1"
+     style="opacity:0.77474;mix-blend-mode:normal" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="text" />
+</svg>

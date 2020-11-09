@@ -1,0 +1,12 @@
+.section:not(:first-child){
+    width: 75%;
+    margin: 25vh auto 50vh auto;
+    box-sizing: content-box;
+}
+
+.section__title{
+    width: 100%;
+}
+
+
+

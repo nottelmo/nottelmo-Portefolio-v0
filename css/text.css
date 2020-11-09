@@ -1,0 +1,57 @@
+@font-face{
+	font-family: "caviarDreams";
+    src: url("../fonts/CaviarDreams.woff") format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+	font-family: "caviarDreams";
+    src: url("../fonts/Caviar_Dreams_Bold.woff") format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face{
+	font-family: "caviarDreams";
+    src: url("../fonts/CaviarDreams_Italic.woff") format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face{
+	font-family: "caviarDreams";
+    src: url("../fonts/CaviarDreams_BoldItalic.woff") format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+*{
+    font-family: "caviarDreams";
+}
+p{
+    /* font-family: "Raleway";
+    font-weight: lighter; */
+}
+
+html { 
+	font-size: calc(1em + 1vw);
+	color: white;
+}
+
+.txt--bold{font-weight: bold}
+.txt--blue{color:#12d2d2ff;}
+.txt--white{color: white;}
+.txt--justify{text-align: justify;}
+.align--right{text-align: right;}
+.align--center{text-align: center;}
+
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-weight: bold;
+    text-transform: uppercase;
+}

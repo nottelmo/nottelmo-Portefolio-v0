@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	
+	<link rel="stylesheet" type="text/css" href="./css/normalize.css" />
+	<link rel="stylesheet" type="text/css" href="./css/layout.css" />
+	<link rel="stylesheet" type="text/css" href="./css/text.css" />
+	<link rel="stylesheet" type="text/css" href="./css/nav.css" />
+	<link rel="stylesheet" type="text/css" href="./css/header.css" />
+	<link rel="stylesheet" type="text/css" href="./css/main.css" />
+	<link rel="stylesheet" type="text/css" href="./css/footer.css" />
+	<link rel="stylesheet" type="text/css" href="./css/gallery.css" />
+
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
+	
+
+	<script src="https://kit.fontawesome.com/81c4f380c9.js" crossorigin="anonymous"></script>
+	<title>NOTTELMO</title>
+    </head>
+
+    <body class="bg--black container">
+		<nav class="animate__animated animate__delay-1s animate__slideInRight">
+			<ul class="menu__items flex flex--btwn flex--align--center">
+				<li class="menu__item" >
+					<a 	href="#header" id="menu__link__header" 
+						class="menu__item__link menu__item__link--focus flex flex--center flex--align--center">
+						<i class="fas fa-home"></i>
+					</a>
+				</li>
+
+				<li class="menu__item">
+					<a 	href="#about" id="menu__link__about"
+						class="menu__item__link flex flex--center flex--align--center">
+						<i class="fas fa-user"></i>
+					</a>
+				</li>
+
+				<li class="menu__item">
+					<a 	href="#portfolio" id="menu__link__portfolio"
+						class="menu__item__link flex flex--center flex--align--center">
+						<i class="fas fa-briefcase"></i>
+					</a>
+				</li>
+
+				<li class="menu__item">
+					<a 	href="#contact" id="menu__link__contact"
+						class="menu__item__link flex flex--center flex--align--center">
+						<i class="fas fa-envelope"></i>
+					</a>
+				</li>
+			</ul>
+		</nav>
+
+		<main>
+			<header id="header" class="section container animate__animated animate__slow animate__fadeIn">
+				<img class="header__img" src="./media/headers/home.jpg" alt="Presentational Protrait Illustration" />
+	
+				<section class="header__info animate__animated animate__slideInLeft">
+					<h1 class="header__info__title animate__animated animate__slideInLeft"><strong>not.telmo</strong></h1>
+					<h2 class="header__info__subtitle txt--blue animate__animated animate__slideInLeft">illustrator</h2>
+				</section>	
+			</header>
+
+			<section id="about" class="section">
+				<h3 class="section__title txt--blue">About</h3>
+				<article class="section__content">
+					<p>Whimsical wonderer who found himself a place alongside digital art and capoeira.</p>
+					<p>Illustration is the connection in-between</p>
+					
+					<h4 class="txt--blue" style="padding-top: 20px;">Services</h4>
+					<ul style="list-style-type: none; padding: 0;">
+						<li>- 3D Modelling</li>
+						<li>- Animation 2D/3D</li>
+						<li>- Illustration & Character Design</li>
+						<li>- Video-Editing</li>
+						<li>- Web Design</li>
+					</ul>
+				</article>
+			</section>
+
+			<section id="portfolio" class="section ">
+				<h3 class="section__title txt--blue">Portfolio</h3>
+				
+				<div class="section__content gallery">
+					<figure class="gallery__figure gallery__figure--closed" onclick="toggleFigcaption(this)">
+						<img 
+							class="gallery__img"
+							src="./media/projects/inktober2020/inktober2020-02.jpg"
+							alt="capoeira illustration"
+						/>
+						<figcaption class="gallery__figcaption animate__animated">
+							<h4 class="gallery__img__title"><strong>Mindless</strong></h4>
+							<small class="gallery__from_collection"><span class="txt--blue">INKTOBER 2020</span> Collection</small>
+							<p class="gallery__img__text gallery__img__txt--partial">Capoeira has a term named "dendê". Multiple people can tell you a lot of different things about what is dendê, and the term can probably have a book for itself with its origins and different interpretations.</p>
+						</figcaption>
+					</figure>
+
+					<figure class="gallery__figure gallery__figure--closed" onclick="toggleFigcaption(this)">
+						<img 
+							class="gallery__img"
+							src="./media/projects/inktober2020/inktober2020-09.jpg"
+							alt="capoeira illustration"
+						/>
+						<figcaption class="gallery__figcaption animate__animated">
+							<h4 class="gallery__img__title"><strong>Throw</strong></h4>
+							<small class="gallery__from_collection"><span class="txt--blue">INKTOBER 2020</span> Collection</small>
+							<p class="gallery__img__text gallery__img__txt--partial">Throws (also known as 'Baloons') exist in Capoeira. These techniques are usually trained with Capoeira Sequences and rarely used in plays.</p>
+							
+						</figcaption>
+					</figure>
+
+					<figure class="gallery__figure gallery__figure--closed" onclick="toggleFigcaption(this)">
+						<img 
+							class="gallery__img"
+							src="./media/projects/inktober2020/inktober2020-12.jpg"
+							alt="capoeira illustration"
+						/>
+						<figcaption class="gallery__figcaption animate__animated">
+							<h4 class="gallery__img__title"><strong>Slippery</strong></h4>
+							<small class="gallery__from_collection"><span class="txt--blue">INKTOBER 2020</span> Collection</small>
+							<p class="gallery__img__text gallery__img__txt--partial">Capoeira allows the use of "rasteiras" (sweeps). They require timing and some skill, but they don't necessarily have to be followed through. It can just be marked (or placed) to let the partner know that "you got him" (or not!), which allows the game to continue nice and smooth.</p>
+						</figcaption>
+					</figure>
+
+					<figure class="gallery__figure gallery__figure--closed" onclick="toggleFigcaption(this)">
+						<img 
+							class="gallery__img"
+							src="./media/projects/inktober2020/inktober2020-26.jpg"
+							alt="capoeira illustration"
+						/>
+						<figcaption class="gallery__figcaption animate__animated">
+							<h4 class="gallery__img__title"><strong>Hiding</strong></h4>
+							<small class="gallery__from_collection"><span class="txt--blue">INKTOBER 2020</span> Collection</small>
+							<p class="gallery__img__text gallery__img__txt--partial">One theory as to how Capoeira came to be what it is today, is how the slaves while guards watched, and kicked when they looked away. </p>
+							
+						</figcaption>
+					</figure>
+
+					<section class="section align--center">
+						<p class="txt--blue">More coming soon</p>
+					</section>
+					
+				</div>
+			</section>
+
+			<section id="contact" class="section">
+				<h2 class="section__title txt--blue">Contact</h2>
+				<address class="section__content">
+					<a class="container" href="mailto:not.telmo@gmail.com">not.telmo@gmail.com</a>		
+				</address>
+			</section>
+		</main>
+
+		<footer class="">
+			<small class="">all rights reserved @2020</small><br>
+		</footer>
+
+		<script src="js/square_figures.js"></script>
+		<script src="js/toggleFigcaption.js"></script>
+		<script src="js/zenscroll-min.js"></script>
+		<script src="js/clickListener.js"></script>
+		<script src="js/nav.js"></script>
+		<noscript>Sorry, your browser does not support JavaScript!</noscript>
+    </body>
+</html>
