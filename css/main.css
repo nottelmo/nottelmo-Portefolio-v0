@@ -1,6 +1,7 @@
 .section:not(:first-child){
     width: 75%;
-    margin: 25vh auto 50vh auto;
+    padding: 12.5vh 0 0 0;
+    margin: 75vh auto 75vh auto;
     box-sizing: content-box;
 }
 

@@ -1,0 +1,28 @@
+.contact__social__media{
+    width: 100%;
+}
+
+.social__media__link{
+    display: inline-block;
+    margin: auto;
+    width: 20%;
+}
+
+.social__media__icon{
+    width: 100%;
+}
+
+.contact{
+    margin-bottom: 7.5vh;
+    font-style: normal;
+}
+
+@media only screen and (min-width: 768px) {
+    .social__media__link{
+        width: 10%;
+    }
+    
+    .social__media__icon{
+        width: 100%;
+    }
+}
